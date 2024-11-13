@@ -4,7 +4,9 @@
 
 TRWA Bot is a powerful tool designed for you to automate TRWA Testnet airdrop.
 
-## Prerequisite
+---
+
+## PREREQUISITE
 
 - Git
 - Node JS (v22)
@@ -71,14 +73,15 @@ Mint USDC
 
 ---
 
-## Setup & Configure BOT
+## SETUP & CONFIGURE BOT
 
-### Linux
-1. Clone project repo
+### LINUX
+
+1. Clone project repository
    ```
    git clone https://github.com/Rambeboy/trwa-launchpad-bot.git && cd trwa-launchpad-bot
    ```
-2. Run
+2. Install dependencies
    ```
    npm install && npm run setup
    ```
@@ -99,14 +102,17 @@ Mint USDC
    npm run start
    ```
    
-### Windows
+---
+
+### WINDOWS
 
 1. Open your `Command Prompt` or `Power Shell`.
+
 2. Clone project repository
    ```
    git clone https://github.com/Rambeboy/trwa-launchpad-bot.git && cd trwa-launchpad-bot
    ```
-3. Run 
+3. Install dependencies
    ```
    npm install && npm run setup
    ```
@@ -119,10 +125,12 @@ Mint USDC
 11. To start the app open your `Command Prompt` or `Power Shell`
 12. Run Bot
     ```
-    npm run start
+    npm start
     ```
 
-## Update Bot
+---
+
+## UPDATE BOT
 
 To update bot follow this step :
 1. run
@@ -142,12 +150,18 @@ To update bot follow this step :
    npm update
    ```
 2. start the bot
+   ```
+   npm start
+   ```
 
+---
 
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
 This bot is unencrypted , use it to learn about how to interact with evm smart contract, so when there is any new testnet or airdrop in the future , you can just develop based on this bot template, but please give me a credit. star and fork it.
+
+---
 
 ## CONTRIBUTE
 
