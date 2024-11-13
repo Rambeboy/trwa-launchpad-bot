@@ -43,12 +43,19 @@ Mint USDC
 
 
 ➡️ Go to : [Here](https://launch.rwa.inc/)
+
 ➖ Connect
+
 ➖ Click Account Setup
+
 ➖ Click Stake RWA
+
 ➖ Input 50% - 70% RWA
+
 ➖ Back to Account Setup
+
 ➖ Complete KYC Just 5 Minutes
+
 ➖ Done
 
 📌 You can claim daily RWA token & stake for get Higher Tier
