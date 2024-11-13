@@ -105,15 +105,13 @@ async function startBot() {
     logger.clear();
     logger.info("");
     logger.info("Application Started");
-    console.log("BASE RWA BOT");
+    console.log("BASE RWA LAUNCHPAD BOT");
     console.log();
-    console.log("By : Widiskel");
-    console.log("Follow On : https://github.com/Widiskel");
-    console.log("Join Channel : https://t.me/skeldrophunt");
+    console.log("Welcome & Enjoy Sir!");
+    console.log("Author : Nofan Rambe");
     console.log("Dont forget to run git pull to keep up to date");
     console.log();
     console.log();
-    Helper.showSkelLogo();
     await startBot();
   } catch (error) {
     console.log("Error During executing bot", error);
