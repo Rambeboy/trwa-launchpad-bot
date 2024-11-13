@@ -59,7 +59,9 @@ Mint USDC
 ➖ Done
 
 📌 You can claim daily RWA token & stake for get Higher Tier
+
 📌 The RWA world's first ecosystem utilizing the latest web3 technology to launch fractional assets on the blockchain : https://x.com/RWA_Inc_/status/1846189771795710099
+
 📌 How to get ETH Base Sepolia ?
 - Bridge ETH Testnet here : 
 - https://rinkeby.orbiter.finance/?source=Sepolia&dest=Base%20Sepolia&token=ETH
