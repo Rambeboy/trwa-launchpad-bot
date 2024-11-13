@@ -190,7 +190,7 @@ Delay : ${data.delay}
     return null;
   }
 
-  static showSkelLogo() {
+  static() {
     console.log("");
   }
 }
