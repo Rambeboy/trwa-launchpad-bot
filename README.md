@@ -10,7 +10,7 @@ TRWA Bot is a powerful tool designed for you to automate TRWA Testnet airdrop.
 
 - Git
 - Node JS (v22)
-- Base Sepolia ETH balance
+- Base Sepolia ETH Balance
 
 ---
 
@@ -102,7 +102,7 @@ Bridge ETH Testnet here :
    ```
 6. Run Bot
    ```
-   npm run start
+   npm start
    ```
    
 ---
